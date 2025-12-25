@@ -1,0 +1,9 @@
+{
+  "name": "Robin Hood Engine",
+  "description": "An elite AI-powered wealth generation factory for content extraction, automated e-commerce, and market disruption. Powered by Gemini 3 Pro.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone",
+    "geolocation"
+  ]
+}
